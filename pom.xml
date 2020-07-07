@@ -11,6 +11,7 @@
     <modules>
         <module>spear-core-starter</module>
         <module>spear-core-test</module>
+        <module>spear-core-boot-starter</module>
     </modules>
 
     <name>SpearTool</name>

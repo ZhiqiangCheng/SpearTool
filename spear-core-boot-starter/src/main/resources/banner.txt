@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_CYAN} _______  _______  _______ _________ _        _______  ${AnsiColor.BLUE} _______  _______  _______  _______  _______
+${AnsiColor.BRIGHT_CYAN}(  ____ \(  ____ )(  ____ )\__   __/( (    /|(  ____ \ ${AnsiColor.BLUE}(  ____ \(  ____ )(  ____ \(  ___  )(  ____ )
+${AnsiColor.BRIGHT_CYAN}| (    \/| (    )|| (    )|   ) (   |  \  ( || (    \/ ${AnsiColor.BLUE}| (    \/| (    )|| (    \/| (   ) || (    )|
+${AnsiColor.BRIGHT_CYAN}| (_____ | (____)|| (____)|   | |   |   \ | || |       ${AnsiColor.BLUE}| (_____ | (____)|| (__    | (___) || (____)|
+${AnsiColor.BRIGHT_CYAN}(_____  )|  _____)|     __)   | |   | (\ \) || | ____  ${AnsiColor.BLUE}(_____  )|  _____)|  __)   |  ___  ||     __)
+${AnsiColor.BRIGHT_CYAN}      ) || (      | (\ (      | |   | | \   || | \_  ) ${AnsiColor.BLUE}     ) || (      | (      | (   ) || (\ (
+${AnsiColor.BRIGHT_CYAN}/\____) || )      | ) \ \_____) (___| )  \  || (___) | ${AnsiColor.BLUE}/\____) || )      | (____/\| )   ( || ) \ \__
+${AnsiColor.BRIGHT_CYAN}\_______)|/       |/   \__/\_______/|/    )_)(_______) ${AnsiColor.BLUE}\_______)|/       (_______/|/     \||/   \__/
+
+${AnsiColor.BLUE}:: SpringSpear:: ${spring.application.name}:${AnsiColor.RED}${spear.env}${AnsiColor.BLUE} :: Running SpringBoot ${spring-boot.version} :: ${AnsiColor.BRIGHT_BLACK}
