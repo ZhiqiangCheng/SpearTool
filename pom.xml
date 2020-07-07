@@ -17,7 +17,8 @@
   <!-- FIXME change it to the project's website -->
   <url>https://github.com/ZhiqiangCheng/SpearTool</url>
 
-<description> SpearTool is a powerful toolbox for SpringSpear </description>
+  <description> SpearTool is a powerful toolbox for SpringSpear </description>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
@@ -25,7 +26,7 @@
     <java.version>1.8</java.version>
     
     <!-- 核心包 -->
-    <spear.tool.version>${project.version}</spear.tool.version>
+    <spear.tool.version>1.0</spear.tool.version>
     <!-- swagger -->
     <swagger.version>2.9.2</swagger.version>
     <swagger.models.version>1.5.21</swagger.models.version>
